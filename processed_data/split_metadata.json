@@ -1,0 +1,13 @@
+{
+  "total_transactions": 70000,
+  "train_size": 56000,
+  "val_size": 14000,
+  "split_timestamp": "2025-05-14 15:18:44+00:00",
+  "train_fraud_rate": 0.018696428571428572,
+  "val_fraud_rate": 0.016214285714285716,
+  "unique_accounts": 1806,
+  "date_range": {
+    "start": "2025-03-01 00:08:51+00:00",
+    "end": "2025-05-31 23:58:56+00:00"
+  }
+}
