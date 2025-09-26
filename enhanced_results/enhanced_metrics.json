@@ -1,0 +1,17 @@
+{
+  "baseline_pr_auc": 0.15903056503660282,
+  "enhanced_pr_auc": 0.5717405945361357,
+  "pr_auc_improvement": 0.41271002949953284,
+  "pr_auc_pct_improvement": 259.5161687343201,
+  "baseline_recall_at_fpr": 0.11894273127753303,
+  "enhanced_recall_at_fpr": 0.5154185022026432,
+  "recall_improvement": 0.39647577092511016,
+  "recall_pct_improvement": 333.33333333333337,
+  "graph_importance_percentage": 42.80853777698973,
+  "tabular_importance_percentage": 57.19146222301027,
+  "total_features": 101,
+  "graph_features": 69,
+  "embedding_dim": 32,
+  "num_walks": 5,
+  "walk_length": 8
+}
