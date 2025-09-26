@@ -1,0 +1,8 @@
+{
+  "train_pr_auc": 0.5793666895838139,
+  "val_pr_auc": 0.15903056503660282,
+  "train_recall_at_fpr": 0.4393505253104107,
+  "val_recall_at_fpr": 0.11894273127753303,
+  "val_threshold": 0.9287684745396463,
+  "n_features": 32
+}
