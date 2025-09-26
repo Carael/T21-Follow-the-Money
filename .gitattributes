@@ -1,1 +1,2 @@
-train_enhanced_features.csv filter=lfs diff=lfs merge=lfs -text
+# Track the specific CSV file with Git LFS
+enhanced_results/train_enhanced_features.csv filter=lfs diff=lfs merge=lfs -text
